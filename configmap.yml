@@ -12,6 +12,6 @@ data:
   <body> 
     <h1>GitOps Deployment Successful</h1> 
     <p>Served from ConfigMap</p> 
-    <p>Version 2</p> 
+    <p>Version 3</p> 
   </body> 
   </html>
